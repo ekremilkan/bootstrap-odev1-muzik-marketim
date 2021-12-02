@@ -1,1 +1,1 @@
-# bootstrap-odev1-muzik-marketim
+# Bootstrap Ödev 1 - Müzik Marketim
