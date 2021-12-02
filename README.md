@@ -1,3 +1,3 @@
 # Bootstrap Ödev 1 - Müzik Marketim
 
-![Pictures](C:\Users\PC\Desktop/homepage.png)
+![Pictures](C:\Users\PC\Desktop/homepage.jpg)
